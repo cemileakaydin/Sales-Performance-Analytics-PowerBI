@@ -1,7 +1,6 @@
-
 # 📊 Sales Performance & Financial Analytics (Power BI)
 
-2023-2024 yıllarını kapsayan satış, bütçe ve maliyet verileriyle oluşturulmuş, uçtan uca Power BI finansal performans analizi ve raporlama projesi.
+> 2023-2024 yıllarını kapsayan satış, bütçe ve maliyet verileriyle oluşturulmuş, uçtan uca Power BI finansal performans analizi ve raporlama projesi.
 
 ## 🚀 Proje Hakkında
 Bu proje, bir işletmenin 2023-2024 yılları arasındaki satış performansını, bütçe hedeflerini ve maliyet analizlerini görselleştiren bir iş zekası çalışmasıdır. Türkiye Yapay Zeka İnisiyatifi (TRAI) eğitim programı kapsamında geliştirilmiştir. 
