@@ -18,7 +18,15 @@ Bu çalışmada, ham veriler kullanılarak şirketin farklı satış kanalların
 - **Kanal Performansı:** Farklı satış kanallarının (Perakende vs. Online) aylık trend analizi.
 
 ## 🖼 Dashboard Önizlemesi
-*(Buraya dashboard'unun ekran görüntüsünü yükle ve altına kısa bir not ekle)*
+Şirketin 2023-2024 finansal performansı, kanal ve ürün bazında %100 doğrulukla modellendi.
+
+En kârlı satış kanalı [X] olarak belirlenerek, kaynak dağılımı için öneriler oluşturuldu.
+
+Aylık bütçe sapmaları izlenerek, hedeflerden sapma gösteren kritik dönemler için raporlama otomatize edildi.
+<img width="1918" height="944" alt="Ekran görüntüsü 2026-05-30 212852" src="https://github.com/user-attachments/assets/7a9e6e52-3785-42fd-a88c-3fd044dacf75" />
+<img width="1915" height="971" alt="Ekran görüntüsü 2026-05-30 213036" src="https://github.com/user-attachments/assets/e63817b4-c4c8-497f-8295-f3bd489aeb2c" />
+<img width="1915" height="966" alt="Ekran görüntüsü 2026-05-30 213055" src="https://github.com/user-attachments/assets/176093cf-c583-453e-b12c-ce8cd0624094" />
+
 
 ## 💡 Temel İçgörüler
 - *Örnek:* Çikolatalı Pasta ürün grubunun, toplam kârlılığa en büyük katkıyı sağlayan kategori olduğu tespit edilmiştir.
